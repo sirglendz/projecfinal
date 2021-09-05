@@ -86,7 +86,7 @@
         </div>
         <div>
             <h2>
-                Who we are
+                Who we are OKAY
             </h2>
 
             <h3 class="purple-txt">
