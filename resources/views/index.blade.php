@@ -119,11 +119,19 @@
         </div>
         
         <div class="container-grid-4">
-     
             <div>
-                <img src="{{ asset('storage/icon-box.jpg')}}" alt="">
+                <img src="{{ URL('storage/coding.jpg')}}" alt="">
                 <h2>
-                    Web Design
+                    Coding
+                </h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur!
+                </p>
+            </div>
+            <div>
+                <img src="{{ asset('storage/design.jpg')}}" alt="">
+                <h2>
+                   Design
                 </h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur!
@@ -131,9 +139,9 @@
             </div>
     
             <div>
-                <img src="{{ URL('storage/icon-box.jpg')}}" alt="">
+                <img src="{{ URL('storage/dota.jpg')}}" alt="">
                 <h2>
-                    Web Development
+                    Dota2 Gamer
                 </h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur!
@@ -141,24 +149,16 @@
             </div>
     
             <div>
-                <img src="{{ URL('storage/icon-box.jpg')}}" alt="">
+                <img src="{{ URL('storage/cf.jpg')}}" alt="">
                 <h2>
-                    Product Design
+                    FPS gamer
                 </h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur!
                 </p>
             </div>
     
-            <div>
-                <img src="{{ URL('storage/icon-box.jpg')}}" alt="">
-                <h2>
-                    Creative Thinker
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur!
-                </p>
-            </div>
+            
         </div>
     
        
@@ -207,35 +207,7 @@
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit.
             </p>
         </div>
-        <div>
-            <i class="far fa-keyboard icon-why-us"></i>   
-            <h2>
-                Optional Maintenance
-            </h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            </p>
-        </div>
         
-        <div>
-            <i class="fas fa-calculator icon-why-us"></i>      
-            <h2>
-                Analytical Calculation
-            </h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            </p>
-        </div>
-        
-        <div>
-            <i class="fas fa-globe icon-why-us"></i>            
-            <h2>
-                Web Master Tools
-            </h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            </p>
-        </div>
     </div>
 </section>
 
